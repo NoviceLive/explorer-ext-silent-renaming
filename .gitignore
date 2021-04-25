@@ -1,0 +1,9 @@
+.vs/
+Release/
+Debug/
+*.exp
+*.iobj
+*.ipdb
+*.lib
+*.pdb
+
